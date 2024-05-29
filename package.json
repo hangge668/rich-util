@@ -89,10 +89,10 @@
         "largeNumbersMultiply",
         "fistLetterUpper"
     ],
-    "homepage": "https://github.com/chenhang607/rich-util.git",
+    "homepage": "https://github.com/hangge668/rich-util.git",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/chenhang607/rich-util.git"
+        "url": "git+https://github.com/hangge668/rich-util.git"
     },
     "publishConfig": {
         "registry": "https://registry.npmjs.org"
