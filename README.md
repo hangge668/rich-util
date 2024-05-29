@@ -1,4 +1,4 @@
-# js-util-libs(函数库)
+# rich-util(函数库)
 
 ## 概述
 
@@ -9,7 +9,7 @@
 
 ## Install(安装)
 
-npm install js-util-libs --save
+npm install rich-util --save
 
 ## Usage(使用)
 
@@ -166,7 +166,7 @@ npm install js-util-libs --save
         20.验证护照（包含香港、澳门）
 ## 如何使用
 ``` language
-import { deepCopy } from 'js-util-libs';
+import { deepCopy } from 'rich-util';
 ```
 ``` language
 const obj = {
@@ -175,27 +175,4 @@ const obj = {
 };
 const text = deepCopy(obj);
 ```
-## 欢迎大家提 PR 扩充函数库，为开源社区贡献自己一份力
-git仓库连接：https://github.com/fuzhaoyang/js-util-libs
-
-提 Pr 步骤  
-1、src 底下创建自己模块函数的文件夹  
-2、函数模块包含 markdow 说明，有自己测试用例（必须）  
-3、根部 index.js 导出函数  
-4、packjson keywords 里写自己函数关键字  
-5、npm test 跑测试用例  
-6、不要修改 packjson 版本号，版本号为线上最新用户使用版本  
-7、Pull requests 测试用例过后，静等作者合代码  
-8、代码合并后，作者会及时发布在 npm 上，更新修复版本
-
-## Contact me(联系我)
-
-![image](https://user-images.githubusercontent.com/25168173/154791040-09b5e289-5533-4aa2-9e6d-cb11eabfddf3.png)
-
-## 我的博客
-
-https://code-nav.top/blog
-
-![image](https://user-images.githubusercontent.com/25168173/154791015-750d04e4-02d4-4ebb-a559-5e3331003309.png)
-
 ## License
