@@ -1,2 +1,2 @@
 # rich-util
-javascript utils library
+a javascript utility library
