@@ -1,8 +1,8 @@
 {
-    "name": "js-util-libs",
-    "description": "js常见的函数工具库",
-    "version": "1.2.6",
-    "author": "fuzhaoyang <932647051@qq.com>",
+    "name": "rich-util",
+    "description": "a javascript utility library",
+    "version": "1.0.0",
+    "author": "hangge <303784673@qq.com>",
     "license": "MIT",
     "main": "index.js",
     "files": [
@@ -16,7 +16,7 @@
         "coverage": "jest --coverage"
     },
     "keywords": [
-        "js-util-libs",
+        "rich-util",
         "debounce",
         "throttle",
         "deepCopy",
@@ -89,10 +89,10 @@
         "largeNumbersMultiply",
         "fistLetterUpper"
     ],
-    "homepage": "https://github.com/fuzhaoyang/js-util-libs.git",
+    "homepage": "https://github.com/chenhang607/rich-util.git",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/fuzhaoyang/js-util-libs.git"
+        "url": "git+https://github.com/chenhang607/rich-util.git"
     },
     "publishConfig": {
         "registry": "https://registry.npmjs.org"
